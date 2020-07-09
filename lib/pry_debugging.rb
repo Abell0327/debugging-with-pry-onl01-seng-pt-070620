@@ -1,7 +1,7 @@
-def plus_two(3)
+def plus_two(num)
     num = num + 2
-    puts num
+
     
 end
 
-plus_two(3) = 5
+plus_two(3)
